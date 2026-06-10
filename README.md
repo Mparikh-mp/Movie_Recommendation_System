@@ -23,5 +23,6 @@ This project is a hybrid movie recommendation system developed using Python and 
 - MovieLens Dataset
 - TMDB 5000 Dataset
 
-## Author
-Your Name
+## Dataset Link
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+https://www.kaggle.com/datasets/ashukr/movie-rating-data
